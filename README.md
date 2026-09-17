@@ -5,9 +5,9 @@ Mahasiswa yang sedang membangun fondasi di dunia pengembangan perangkat lunak, s
 
 ## Tentang Saya
 
-- 🎓 Mahasiswa Program Studi D4 Teknologi Rekayasa Perangkat Lunak, `...` — Semester 1
+- 🎓 Mahasiswa Program Studi D4 Teknologi Rekayasa Perangkat Lunak, PNC — Semester 1
 - 💻 Saat ini fokus mempelajari **C++** mengikuti mata kuliah pemrograman
-- 🌱 Sudah memahami dasar-dasar pemrograman: variabel, percabangan (if-else), perulangan (loop), dan fungsi (function)
+- 🌱 Sudah memahami dasar-dasar pemrograman: variabel, percabangan (if-else), perulangan (loop), fungsi (function), dll
 - 📚 Terbuka untuk belajar teknologi dan bahasa pemrograman baru
 - 🎯 Sedang mengasah kemampuan problem solving dan logika pemrograman
 
