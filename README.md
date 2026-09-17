@@ -1,5 +1,5 @@
 # PTI_Dion-Nalendra
-## Halo! 👋 Perkenalkan, saya `...`
+## Halo! 👋 Perkenalkan, saya Dion Nalendra
 
 Mahasiswa yang sedang membangun fondasi di dunia pengembangan perangkat lunak, satu baris kode pada satu waktu.
 
